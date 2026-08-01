@@ -1,118 +1,115 @@
-# DavideSerpa22.github.io
-Portfolio e Hub dei Progetti di Ingegneria Informatica | Davide Serpa
-# Davide Serpa | Portfolio & Engineering Hub 👨‍💻⚡
+# 💻 **DAVIDE SERPA** | **COMPUTER ENGINEER & SOFTWARE ARCHITECT**
 
-🚀 Profilo
-Ingegnere Informatico con formazione completa ed esaustiva su tutto lo stack tecnologico: dalla progettazione di circuiti digitali a basso livello (RTL/VHDL), alla programmazione di sistema e concorrente (Linux/POSIX/C), fino all'architettura di software enterprise (Java, OOP, Design Patterns), basi di dati e reti di calcolatori.
+<p align="left">
+  <img src="https://img.shields.io/badge/Degree-Ingegneria_Informatica_(L--8)-blue?style=for-the-badge&logo=academic-cap" alt="Degree">
+  <img src="https://img.shields.io/badge/University-UniCal_(DIMES)-orange?style=for-the-badge&logo=education" alt="UniCal">
+  <img src="https://img.shields.io/badge/Status-Graduated_100%25_(180/180_CFU)-brightgreen?style=for-the-badge&logo=check-circle" alt="Status">
+</p>
 
-Piena padronanza nell'analisi della complessità algoritmica, nella modellazione matematica di sistemi complessi e nello sviluppo di soluzioni software scalabili e ad alte prestazioni.
----
-
-## 🛠️ Tech Stack & Competenze
-
-* **Linguaggi di Programmazione:** Java, C, VHDL / Verilog, HTML5 / CSS3 / JavaScript
-* **Hardware & RTL:** Progettazione Digitale, Simulazione, Xilinx Vivado, GTKWave
-* **Sviluppo Web & Tools:** Git, GitHub, VS Code
+> **Ingegnere Informatico Laureato** presso il **DIMES — Università della Calabria**.  
+> *Specializzato in Progettazione Software Enterprise, Programmazione di Sistema, Architetture Hardware/RTL e Basi di Dati Relazionali.*
 
 ---
 
-📚 Indice dei Moduli & Hub dei Progetti
-La repository raccoglie il codice sorgente, le simulazioni e la documentazione tecnica sviluppata per ciascuna area del corso di studi in Ingegneria Informatica:
+## 🚀 **PROFILO PROFESSIONALE**
 
-⚡ 1. Architettura dei Calcolatori & Progettazione RTL (/01_Hardware_RTL)
-Competenze: Progettazione, sintesi e simulazione di circuiti digitali combinatori e sequenziali.
+Ingegnere Informatico con formazione accademica completa (180/180 CFU) e competenze operative su **tutto lo stack ingegneristico**:
 
-Tecnologie: VHDL, Verilog, Xilinx Vivado, GTKWave.
+* ⚡ **Low-Level & Hardware:** Progettazione e simulazione RTL in VHDL/Verilog, sintesi logica e architettura dei calcolatori.
+* 💻 **Systems & Concurrency:** Programmazione di sistema UNIX/Linux in C/C++, gestione dei processi, thread POSIX, IPC e concorrenza.
+* ☕ **Enterprise Software:** Architettura orientata agli oggetti (Java), applicazione rigida dei principi SOLID e Design Pattern.
+* 🌐 **Data & Networks:** Progettazione di Basi di Dati Relazionali (SQL), modellazione E-R e architettura delle Reti di Calcolatori (TCP/IP).
 
-Progetti: Modulo ALU, registri di scorrimento, contatori sincroni, macchine a stati finiti (FSM) e simulazione di forme d'onda.
+---
 
-🧩 2. Algoritmi & Strutture Dati Advanced (/02_Algorithms_DataStructures)
-Competenze: Progettazione di algoritmi ad alta efficienza, analisi della complessità (Notazione O-Grande), gestione dinamica avanzata della memoria.
+## 🛠️ **TECH STACK & COMPETENZE**
 
-Tecnologie: C, C++, Java.
+| **AMBITO** | **TECNOLOGIE, LINGUAGGI & TOOL** |
+| :--- | :--- |
+| 🔤 **Linguaggi di Programmazione** | `Java` • `C` • `C++` • `VHDL` • `Verilog` • `SQL` • `Python` • `HTML5` • `CSS3` • `JavaScript` |
+| ⚙️ **Sistemi & Concorrenza** | Linux/POSIX • Kernels • POSIX Threads • Mutex & Semaphores • IPC • System Calls |
+| 🔌 **Hardware & RTL Design** | Xilinx Vivado • GTKWave • Sintesi Logica • FSM • Circuiti Combinatori & Sequenziali |
+| 🏛️ **Architettura Software** | Object-Oriented Programming (OOP) • Principi SOLID • Design Patterns • Algoritmi & Strutture Dati |
+| 🗄️ **Basi di Dati & Web** | PostgreSQL • MySQL • Diagrammi E-R • Normalizzazione (1NF-3NF) • RESTful Architectures |
+| 🛰️ **Reti & Telecomunicazioni** | Suite TCP/IP • Socket Programming (C/Java) • Wireshark • Architetture Client-Server |
+| 🧰 **Developer Tools & DevOps** | Git • GitHub • VS Code • GCC/GDB • Bash CLI • Linux Ecosystem |
 
-Progetti: Implementazione da zero di Alberi Bilanciati (AVL/Red-Black), Grafi, Tabelle Hash, Heap e benchmark tra algoritmi di ordinamento (QuickSort, MergeSort).
+---
 
-💻 3. Sistemi Operativi & Programmazione di Sistema (/03_Operating_Systems)
-Competenze: Gestione della concorrenza, multi-threading, sincronizzazione di processi e chiamate di sistema in ambiente UNIX/Linux.
+## 🗂️ **HUB DEI PROGETTI & ARCHITETTURA DI SISTEMA**
 
-Tecnologie: C, POSIX Threads (pthreads), Semaphores, Mutex, IPC (Pipe, Shared Memory).
+---
 
-Progetti: Sviluppo di gestori di risorse concorrenti, risoluzione del problema dei filosofi a cena, produttore-consumatore e simulatori di scheduling CPU.
+### ⚡ **1. Architettura Hardware & Progettazione RTL** (`/01_Hardware_RTL`)
+* 🎯 **Obiettivo:** Progettazione, sintesi e simulazione di moduli digitali ad alte prestazioni.
+* 🛠️ **Tech Stack:** `VHDL`, `Verilog`, `Xilinx Vivado`, `GTKWave`.
+* 📌 **Moduli Chiave:**
+  * Progettazione di **ALU (Arithmetic Logic Unit)** a 32-bit e registri di scorrimento.
+  * Realizzazione di **Macchine a Stati Finiti (FSM)** per il controllo di processi industriali.
+  * Simulazione e verifica delle forme d'onda temporali e timing analysis.
 
-☕ 4. Architettura Software Orientata agli Oggetti (/04_Software_Engineering_OOP)
-Competenze: Ingegneria del software, modellazione UML, applicazione dei principi SOLID e Design Patterns enterprise.
+---
 
-Tecnologie: Java, JUnit, Git.
+### 🧩 **2. Algoritmi & Strutture Dati (High-Performance)** (`/02_Algorithms_DataStructures`)
+* 🎯 **Obiettivo:** Implementazione da zero di strutture dati complesse e benchmark prestazionali.
+* 🛠️ **Tech Stack:** `C`, `C++`, `Java`.
+* 📌 **Moduli Chiave:**
+  * Implementazione di **Alberi Bilanciati (AVL / Red-Black)** e **Grafi** orientati/pesati.
+  * Algoritmi di ordinamento avanzati (**QuickSort**, **MergeSort**, **HeapSort**) con analisi notazione $O(n \log n)$.
+  * Gestione custom della memoria dinamica e prevenzione dei memory leak.
 
-Progetti: Applicativi complessi a livelli (GUI, Controller, Model), implementazione di Pattern Creazionali (Factory, Singleton), Strutturali (Adapter, Composite) e Comportamentali (Observer, Strategy).
+---
 
-🌐 5. Basi di Dati & Web Systems Engineering (/05_Databases_Web)
-Competenze: Progettazione concettuale e logica di basi di dati relazionali, normalizzazione (1NF-3NF/BCNF), query SQL avanzate e interfacce web.
+### 💻 **3. Programmazione di Sistema & Sistemi Operativi** (`/03_Operating_Systems`)
+* 🎯 **Obiettivo:** Sviluppo di software di sistema concorrente e multithreaded su ambienti POSIX.
+* 🛠️ **Tech Stack:** `C`, `POSIX Threads (pthreads)`, `Semaphores`, `Mutex`, `Linux CLI`.
+* 📌 **Moduli Chiave:**
+  * Risoluzione classica dei problemi di concorrenza (**Produttore-Consumatore**, **Lettori-Scrittori**).
+  * Gestione di **Inter-Process Communication (IPC)** tramite Shared Memory, Message Queues e Pipe.
+  * Simulatori di **CPU Scheduling** (FCFS, SJF, Round Robin) e gestione del Virtual Memory Paging.
 
-Tecnologie: SQL, PostgreSQL/MySQL, HTML5, CSS3, JavaScript.
+---
 
-Progetti: Modellazione schemi E-R complessi, transazioni, viste, trigger e sviluppo di applicativi Web Full-Stack integrati.
+### ☕ **4. Ingegneria del Software & Paradigma Object-Oriented** (`/04_Software_Engineering_OOP`)
+* 🎯 **Obiettivo:** Progettazione di architetture software modulari, manutenibili e scalabili.
+* 🛠️ **Tech Stack:** `Java`, `JUnit`, `UML`, `Git`.
+* 📌 **Moduli Chiave:**
+  * Modellazione a strati (**GUI**, **Business Logic**, **Data Access Layer**).
+  * Implementazione pratica dei **Design Patterns** Creazionali (Factory, Singleton), Strutturali (Adapter, Facade) e Comportamentali (Observer, Strategy).
+  * Suite di testing automatizzato ed esaustiva copertura delle eccezioni.
 
-🛰️ 6. Reti di Calcolatori & Telecomunicazioni (/06_Networking)
-Competenze: Architettura dei modelli ISO/OSI e TCP/IP, programmazione di rete con socket, analisi di protocollo.
+---
 
-Tecnologie: C, Java, Socket API, Wireshark.
+### 🌐 **5. Basi di Dati Relazionali & Web Engineering** (`/05_Databases_Web`)
+* 🎯 **Obiettivo:** Modellazione di database complessi e sviluppo di piattaforme web integrate.
+* 🛠️ **Tech Stack:** `SQL`, `PostgreSQL`, `MySQL`, `HTML5/CSS3`, `JavaScript`.
+* 📌 **Moduli Chiave:**
+  * Progettazione concettuale (Schemi E-R) e logica con rigida **Normalizzazione (3NF / BCNF)**.
+  * Scrittura di query SQL ad alto grado di complessità, **Viste**, **Trigger** e **Stored Procedures**.
+  * Sviluppo di interfacce web responsive con integrazione a database relazionali.
 
-Progetti: Sviluppo di architetture Client-Server multithreaded su protocolli TCP e UDP, simulazione di instradamento e analisi di traffico di rete.
+---
 
-🔄 7. Controlli Automatici & Ricerca Operativa (/07_Control_Optimization)
-Competenze: Analisi di sistemi dinamici in retroazione, stabilità, ottimizzazione matematica e modelli probabilistici.
+### 🛰️ **6. Reti di Calcolatori & Protocolli di Comunicazione** (`/06_Networking`)
+* 🎯 **Obiettivo:** Programmazione di rete e analisi dell'infrastruttura di comunicazione.
+* 🛠️ **Tech Stack:** `C`, `Java`, `Socket API`, `Wireshark`, `TCP/IP`.
+* 📌 **Moduli Chiave:**
+  * Sviluppo di architetture **Client-Server Multithreaded** su protocolli TCP e UDP.
+  * Analisi e decodifica di pacchetti di rete tramite sniffer di traffico.
+  * Implementazione di protocolli di applicazione personalizzati su socket.
 
-Tecnologie: MATLAB, Simulink, Solutori LPP.
+---
 
-Progetti: Analisi di risposta in frequenza/tempo, sintesi di controllori PID e risoluzione di problemi di programmazione lineare ed intiera.
+### 📊 **7. Controlli Automatici & Ricerca Operativa** (`/07_Control_Optimization`)
+* 🎯 **Obiettivo:** Modellazione di sistemi dinamici in retroazione e risoluzione di problemi di ottimizzazione.
+* 🛠️ **Tech Stack:** `MATLAB`, `Simulink`, `LPP Solvers`.
+* 📌 **Moduli Chiave:**
+  * Sintesi di controllori di stabilità **PID** e analisi della risposta in frequenza.
+  * Risoluzione di problemi di **Programmazione Lineare (Algoritmo del Simplesso)** e ottimizzazione su reti.
 
-📜 Quadro Completo delle Discipline Accademiche (180 CFU)
-🟩 Area Informatica & Software (Completata)
-✔️ Fondamenti di Informatica I & II (15 CFU)
+---
 
-✔️ Programmazione Orientata agli Oggetti (9 CFU)
+## 🎓 **PIANO DI STUDI E COMPLETAMENTO ACCADEMICO (180/180 CFU)**
 
-✔️ Algoritmi e Strutture Dati (6 CFU)
-
-✔️ Ingegneria del Software (9 CFU)
-
-✔️ Sistemi Operativi (9 CFU)
-
-✔️ Basi di Dati (9 CFU)
-
-✔️ Elementi di Informatica Teorica (6 CFU)
-
-🟩 Area Hardware, Reti & Sistemi (Completata)
-✔️ Reti Logiche e Calcolatori (9 CFU)
-
-✔️ Elettronica Digitale (6 CFU)
-
-✔️ Reti di Calcolatori (6 CFU)
-
-✔️ Fondamenti di Reti di Telecomunicazioni (6 CFU)
-
-🟩 Area Ingegneria Sistemistica, Matematica & Fisica (Completata)
-✔️ Matematica & Elementi di Matematica Computazionale (21 CFU)
-
-✔️ Fisica - Meccanica, Termodinamica, Elettromagnetismo ed Elettrotecnica (21 CFU)
-
-✔️ Metodi Matematici per l'Ingegneria Informatica (12 CFU)
-
-✔️ Fondamenti di Automatica (9 CFU)
-
-✔️ Ricerca Operativa & Metodi Probabilistici (12 CFU)
-
-✔️ Economia e Organizzazione Aziendale (6 CFU)
-
-✔️ Lingua Inglese (4 CFU)
-
-✔️ Tesi e Prova Finale di Ingegneria (5 CFU)
-
-📬 Contatti Professionale
-LinkedIn: Davide Serpa
-
-Email: srpdvd01p22c588y@studenti.unical.it
-
-GitHub Profile: DavideSerpa22
+```text
+[████████████████████████████████████████] 100% COMPLETATO (180 / 180 CFU)
