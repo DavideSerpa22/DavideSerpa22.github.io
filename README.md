@@ -1,115 +1,257 @@
-# 💻 **DAVIDE SERPA** | **COMPUTER ENGINEER & SOFTWARE ARCHITECT**
+# Algorithms and Data Structures
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Degree-Ingegneria_Informatica_(L--8)-blue?style=for-the-badge&logo=academic-cap" alt="Degree">
-  <img src="https://img.shields.io/badge/University-UniCal_(DIMES)-orange?style=for-the-badge&logo=education" alt="UniCal">
-  <img src="https://img.shields.io/badge/Status-Graduated_100%25_(180/180_CFU)-brightgreen?style=for-the-badge&logo=check-circle" alt="Status">
-</p>
+## Repository di Algoritmi e Strutture Dati
 
-> **Ingegnere Informatico Laureato** presso il **DIMES — Università della Calabria**.  
-> *Specializzato in Progettazione Software Enterprise, Programmazione di Sistema, Architetture Hardware/RTL e Basi di Dati Relazionali.*
+Questa repository è dedicata allo studio, all'analisi e all'implementazione degli algoritmi fondamentali e delle strutture dati affrontati nel corso di Algoritmi e Strutture Dati del percorso di Ingegneria Informatica.
 
----
+L'obiettivo è costruire una base di conoscenza tecnica organizzata e progressivamente ampliata attraverso appunti strutturati, implementazioni, esercizi, analisi di complessità ed esempi applicativi.
 
-## 🚀 **PROFILO PROFESSIONALE**
-
-Ingegnere Informatico con formazione accademica completa (180/180 CFU) e competenze operative su **tutto lo stack ingegneristico**:
-
-* ⚡ **Low-Level & Hardware:** Progettazione e simulazione RTL in VHDL/Verilog, sintesi logica e architettura dei calcolatori.
-* 💻 **Systems & Concurrency:** Programmazione di sistema UNIX/Linux in C/C++, gestione dei processi, thread POSIX, IPC e concorrenza.
-* ☕ **Enterprise Software:** Architettura orientata agli oggetti (Java), applicazione rigida dei principi SOLID e Design Pattern.
-* 🌐 **Data & Networks:** Progettazione di Basi di Dati Relazionali (SQL), modellazione E-R e architettura delle Reti di Calcolatori (TCP/IP).
+Il materiale viene sviluppato seguendo il programma ufficiale del corso e documentato con particolare attenzione agli aspetti teorici, progettuali e implementativi.
 
 ---
 
-## 🛠️ **TECH STACK & COMPETENZE**
+# Obiettivi
 
-| **AMBITO** | **TECNOLOGIE, LINGUAGGI & TOOL** |
-| :--- | :--- |
-| 🔤 **Linguaggi di Programmazione** | `Java` • `C` • `C++` • `VHDL` • `Verilog` • `SQL` • `Python` • `HTML5` • `CSS3` • `JavaScript` |
-| ⚙️ **Sistemi & Concorrenza** | Linux/POSIX • Kernels • POSIX Threads • Mutex & Semaphores • IPC • System Calls |
-| 🔌 **Hardware & RTL Design** | Xilinx Vivado • GTKWave • Sintesi Logica • FSM • Circuiti Combinatori & Sequenziali |
-| 🏛️ **Architettura Software** | Object-Oriented Programming (OOP) • Principi SOLID • Design Patterns • Algoritmi & Strutture Dati |
-| 🗄️ **Basi di Dati & Web** | PostgreSQL • MySQL • Diagrammi E-R • Normalizzazione (1NF-3NF) • RESTful Architectures |
-| 🛰️ **Reti & Telecomunicazioni** | Suite TCP/IP • Socket Programming (C/Java) • Wireshark • Architetture Client-Server |
-| 🧰 **Developer Tools & DevOps** | Git • GitHub • VS Code • GCC/GDB • Bash CLI • Linux Ecosystem |
+La repository ha lo scopo di:
 
----
-
-## 🗂️ **HUB DEI PROGETTI & ARCHITETTURA DI SISTEMA**
+- Studiare i modelli fondamentali della computazione.
+- Analizzare la complessità temporale e spaziale degli algoritmi.
+- Comprendere le principali tecniche di progettazione algoritmica.
+- Implementare strutture dati efficienti.
+- Sviluppare capacità di problem solving.
+- Applicare metodi rigorosi di analisi e verifica.
+- Costruire un riferimento tecnico consultabile nel lungo periodo.
 
 ---
 
-### ⚡ **1. Architettura Hardware & Progettazione RTL** (`/01_Hardware_RTL`)
-* 🎯 **Obiettivo:** Progettazione, sintesi e simulazione di moduli digitali ad alte prestazioni.
-* 🛠️ **Tech Stack:** `VHDL`, `Verilog`, `Xilinx Vivado`, `GTKWave`.
-* 📌 **Moduli Chiave:**
-  * Progettazione di **ALU (Arithmetic Logic Unit)** a 32-bit e registri di scorrimento.
-  * Realizzazione di **Macchine a Stati Finiti (FSM)** per il controllo di processi industriali.
-  * Simulazione e verifica delle forme d'onda temporali e timing analysis.
-
----
-
-### 🧩 **2. Algoritmi & Strutture Dati (High-Performance)** (`/02_Algorithms_DataStructures`)
-* 🎯 **Obiettivo:** Implementazione da zero di strutture dati complesse e benchmark prestazionali.
-* 🛠️ **Tech Stack:** `C`, `C++`, `Java`.
-* 📌 **Moduli Chiave:**
-  * Implementazione di **Alberi Bilanciati (AVL / Red-Black)** e **Grafi** orientati/pesati.
-  * Algoritmi di ordinamento avanzati (**QuickSort**, **MergeSort**, **HeapSort**) con analisi notazione $O(n \log n)$.
-  * Gestione custom della memoria dinamica e prevenzione dei memory leak.
-
----
-
-### 💻 **3. Programmazione di Sistema & Sistemi Operativi** (`/03_Operating_Systems`)
-* 🎯 **Obiettivo:** Sviluppo di software di sistema concorrente e multithreaded su ambienti POSIX.
-* 🛠️ **Tech Stack:** `C`, `POSIX Threads (pthreads)`, `Semaphores`, `Mutex`, `Linux CLI`.
-* 📌 **Moduli Chiave:**
-  * Risoluzione classica dei problemi di concorrenza (**Produttore-Consumatore**, **Lettori-Scrittori**).
-  * Gestione di **Inter-Process Communication (IPC)** tramite Shared Memory, Message Queues e Pipe.
-  * Simulatori di **CPU Scheduling** (FCFS, SJF, Round Robin) e gestione del Virtual Memory Paging.
-
----
-
-### ☕ **4. Ingegneria del Software & Paradigma Object-Oriented** (`/04_Software_Engineering_OOP`)
-* 🎯 **Obiettivo:** Progettazione di architetture software modulari, manutenibili e scalabili.
-* 🛠️ **Tech Stack:** `Java`, `JUnit`, `UML`, `Git`.
-* 📌 **Moduli Chiave:**
-  * Modellazione a strati (**GUI**, **Business Logic**, **Data Access Layer**).
-  * Implementazione pratica dei **Design Patterns** Creazionali (Factory, Singleton), Strutturali (Adapter, Facade) e Comportamentali (Observer, Strategy).
-  * Suite di testing automatizzato ed esaustiva copertura delle eccezioni.
-
----
-
-### 🌐 **5. Basi di Dati Relazionali & Web Engineering** (`/05_Databases_Web`)
-* 🎯 **Obiettivo:** Modellazione di database complessi e sviluppo di piattaforme web integrate.
-* 🛠️ **Tech Stack:** `SQL`, `PostgreSQL`, `MySQL`, `HTML5/CSS3`, `JavaScript`.
-* 📌 **Moduli Chiave:**
-  * Progettazione concettuale (Schemi E-R) e logica con rigida **Normalizzazione (3NF / BCNF)**.
-  * Scrittura di query SQL ad alto grado di complessità, **Viste**, **Trigger** e **Stored Procedures**.
-  * Sviluppo di interfacce web responsive con integrazione a database relazionali.
-
----
-
-### 🛰️ **6. Reti di Calcolatori & Protocolli di Comunicazione** (`/06_Networking`)
-* 🎯 **Obiettivo:** Programmazione di rete e analisi dell'infrastruttura di comunicazione.
-* 🛠️ **Tech Stack:** `C`, `Java`, `Socket API`, `Wireshark`, `TCP/IP`.
-* 📌 **Moduli Chiave:**
-  * Sviluppo di architetture **Client-Server Multithreaded** su protocolli TCP e UDP.
-  * Analisi e decodifica di pacchetti di rete tramite sniffer di traffico.
-  * Implementazione di protocolli di applicazione personalizzati su socket.
-
----
-
-### 📊 **7. Controlli Automatici & Ricerca Operativa** (`/07_Control_Optimization`)
-* 🎯 **Obiettivo:** Modellazione di sistemi dinamici in retroazione e risoluzione di problemi di ottimizzazione.
-* 🛠️ **Tech Stack:** `MATLAB`, `Simulink`, `LPP Solvers`.
-* 📌 **Moduli Chiave:**
-  * Sintesi di controllori di stabilità **PID** e analisi della risposta in frequenza.
-  * Risoluzione di problemi di **Programmazione Lineare (Algoritmo del Simplesso)** e ottimizzazione su reti.
-
----
-
-## 🎓 **PIANO DI STUDI E COMPLETAMENTO ACCADEMICO (180/180 CFU)**
+# Organizzazione della Repository
 
 ```text
-[████████████████████████████████████████] 100% COMPLETATO (180 / 180 CFU)
+Algorithms-and-Data-Structures/
+│
+├── 01_Computational_Complexity/
+├── 02_Fundamental_Algorithms/
+├── 03_Divide_and_Conquer/
+├── 04_Trees/
+├── 05_Dictionaries_and_Priority_Queues/
+├── 06_Strings/
+├── 07_Graphs/
+├── 08_Weighted_Graphs/
+├── 09_Backtracking_and_Complexity_Classes/
+│
+├── Exercises/
+├── Exam_Preparation/
+└── Projects/
+```
+
+---
+
+# Programma del Corso
+
+## 1. Complessità Computazionale
+
+Studio dei modelli teorici utilizzati per descrivere algoritmi e problemi computazionali.
+
+### Contenuti
+
+- Macchine di Turing
+- Macchine RAM
+- Macchine RASP
+- Complessità temporale
+- Complessità spaziale
+- Funzioni di costo
+- Rappresentazione delle funzioni di costo
+- Caso migliore
+- Caso medio
+- Caso peggiore
+
+---
+
+## 2. Algoritmi Fondamentali
+
+Analisi e implementazione degli algoritmi classici utilizzati come base per tecniche più avanzate.
+
+### Contenuti
+
+- Algoritmi iterativi di ricerca
+- Algoritmi iterativi di ordinamento
+- Algoritmi su matrici
+- Risoluzione di sistemi di equazioni
+- Analisi di complessità
+
+---
+
+## 3. Divide et Impera
+
+Tecniche di progettazione basate sulla decomposizione ricorsiva dei problemi.
+
+### Contenuti
+
+- Paradigma Divide et Impera
+- Algoritmi ricorsivi
+- Divide et Impera senza ricorsione
+- Moltiplicazione efficiente di interi
+- Moltiplicazione efficiente di matrici
+- Ricerca efficiente
+- Ordinamento efficiente
+- Problemi di selezione
+- Calcolo del k-esimo elemento
+- Relazioni di ricorrenza
+
+---
+
+## 4. Alberi
+
+Strutture dati gerarchiche e algoritmi associati.
+
+### Contenuti
+
+- Alberi binari
+- Algoritmi di visita
+- Iteratori
+- Alberi binari di ricerca
+- Bilanciamento
+- Alberi generali
+- B-Alberi
+
+---
+
+## 5. Dizionari e Code di Priorità
+
+Strutture dati orientate alla ricerca e alla gestione delle priorità.
+
+### Contenuti
+
+- Dizionari
+- Vettori associativi
+- Tabelle hash
+- Code di priorità
+- Heap
+- Applicazioni
+
+---
+
+## 6. Algoritmi sulle Stringhe
+
+Tecniche per il confronto e la ricerca di sequenze di caratteri.
+
+### Contenuti
+
+- Definizioni preliminari
+- Distanza tra stringhe
+- Massima sottosequenza comune
+- Pattern matching
+- Algoritmi di string matching
+
+---
+
+## 7. Grafi
+
+Rappresentazione e analisi di strutture relazionali complesse.
+
+### Contenuti
+
+- Proprietà dei grafi
+- Rappresentazioni
+- Algoritmi di visita
+- Componenti connesse
+- Ciclicità
+- Chiusura transitiva
+- Componenti fortemente connesse
+- Alberi ricoprenti
+
+---
+
+## 8. Grafi Pesati
+
+Algoritmi di ottimizzazione per grafi con pesi associati.
+
+### Contenuti
+
+- Rappresentazione di grafi pesati
+- Alberi ricoprenti minimi
+- Tecniche greedy
+- Cammini minimi da sorgente
+- Programmazione dinamica applicata ai grafi
+
+---
+
+## 9. Backtracking e Classi di Complessità
+
+Introduzione ai problemi combinatori e alla teoria della complessità.
+
+### Contenuti
+
+- Tecniche di backtracking
+- Esplorazione dello spazio degli stati
+- Problemi combinatori
+- Classi di complessità
+- Problemi decisionali
+- Introduzione ai problemi NP
+
+---
+
+# Metodologia
+
+Ogni argomento verrà documentato utilizzando una struttura uniforme.
+
+## Theory
+
+Presentazione dei concetti teorici.
+
+## Formal Definitions
+
+Definizioni formali e proprietà matematiche.
+
+## Complexity Analysis
+
+Analisi della complessità temporale e spaziale.
+
+## Worked Examples
+
+Esempi svolti e casi di studio.
+
+## Implementations
+
+Implementazioni commentate degli algoritmi.
+
+## Exam Exercises
+
+Esercizi e prove d'esame.
+
+## Notes and Insights
+
+Osservazioni, collegamenti e approfondimenti.
+
+---
+
+# Roadmap
+
+Questa repository rappresenta il primo modulo di una futura raccolta di repository dedicate alle principali discipline dell'Ingegneria Informatica.
+
+Le successive repository saranno dedicate ad ambiti quali:
+
+- Architettura degli Elaboratori
+- Sistemi Operativi
+- Programmazione di Sistema
+- Basi di Dati
+- Reti di Calcolatori
+- Ingegneria del Software
+- Controlli Automatici
+- Ricerca Operativa
+
+Ogni repository manterrà la stessa struttura, filosofia organizzativa e livello di documentazione tecnica.
+
+---
+
+# Stato Attuale
+
+Attualmente la repository è in fase di costruzione e verrà popolata progressivamente con:
+
+- materiale teorico;
+- implementazioni;
+- esercizi risolti;
+- simulazioni d'esame;
+- progetti applicativi.
+
+L'obiettivo è documentare in modo rigoroso e strutturato l'intero percorso relativo ad Algoritmi e Strutture Dati, creando una base tecnica consultabile e mantenibile nel tempo.
