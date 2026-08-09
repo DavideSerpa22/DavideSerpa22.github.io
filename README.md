@@ -46,7 +46,7 @@ Sempre alla ricerca di nuove sfide tecniche da trasformare in codice. 🚀
 | Area | Tecnologie chiave | Descrizione |
 | :--- | :--- | :--- |
 | 🧩 **[Basi di Programmazione](#)** 🔜 | Python, Java | Fondamenti di programmazione, paradigmi procedurale e a oggetti |
-| 🧮 **[Algoritmi & Strutture Dati](https://github.com/TUO-USERNAME/Algorithms-and-Data-Structures)** 🔗 | C, C++, Java | Complessità computazionale, alberi, grafi, tecniche di ottimizzazione |
+| 🧮 **[Algoritmi & Strutture Dati](https://github.com/ASD/Algorithms-and-Data-Structures)** 🔗 | C, C++, Java | Complessità computazionale, alberi, grafi, tecniche di ottimizzazione |
 | ☕ **[Software Engineering & OOP](#)** 🔜 | Java, UML | Design pattern, principi SOLID, architetture modulari |
 | 🧵 **[Sistemi Operativi](#)** 🔜 | C, POSIX | Processi, concorrenza, gestione della memoria |
 | 🔌 **[Architetture Digitali & Hardware](#)** 🔜 | VHDL, Vivado | Circuiti digitali, macchine a stati, progettazione RTL |
