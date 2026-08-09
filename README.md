@@ -1,14 +1,29 @@
-# 💻 Davide Serpa | Computer Engineering Student
+# 👋 Ciao, sono Davide Serpa
+
+<img src="https://via.placeholder.com/150" alt="Davide Serpa" width="150" style="border-radius:50%">
+
+**Computer Engineer | Software Developer**
+Ingegneria Informatica @ **DIMES — Università della Calabria**.
+Mi occupo di sviluppo software, algoritmi e architetture di sistema, con particolare interesse per il backend e le strutture dati efficienti.
+Sempre alla ricerca di nuove sfide tecniche da trasformare in codice. 🚀
+
+---
+
+## 🌐 Social & Contatti
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Degree-Ingegneria_Informatica_(L--8)-blue?style=for-the-badge&logo=academic-cap" alt="Degree">
-  <img src="https://img.shields.io/badge/University-UniCal_(DIMES)-orange?style=for-the-badge&logo=education" alt="UniCal">
-  <img src="https://img.shields.io/badge/CFU-54%2F180-brightgreen?style=for-the-badge&logo=check-circle" alt="Progress">
-  <img src="https://img.shields.io/badge/Anno-2%C2%B0_Anno-yellow?style=for-the-badge" alt="Anno">
+  <a href="mailto:tuamail@example.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20" alt="Email"></a>&nbsp;<a href="mailto:tuamail@example.com">tuamail@example.com</a>
+  <br>
+  <a href="https://linkedin.com/in/TUO-LINKEDIN"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="20" alt="LinkedIn"></a>&nbsp;<a href="https://linkedin.com/in/TUO-LINKEDIN">TUO-LINKEDIN</a>
+  <br>
+  <a href="https://github.com/TUO-USERNAME"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="20" alt="GitHub"></a>&nbsp;<a href="https://github.com/TUO-USERNAME">TUO-USERNAME</a>
+  <br>
+  <a href="https://instagram.com/thetrueprice"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="20" alt="Instagram"></a>&nbsp;<a href="https://instagram.com/thetrueprice">@thetrueprice</a>
+  <br>
+  <a href="https://twitter.com/TUO-TWITTER"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="20" alt="Twitter"></a>&nbsp;<a href="https://twitter.com/TUO-TWITTER">TUO-TWITTER</a>
+  <br>
+  <a href="https://t.me/TUO-TELEGRAM"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="20" alt="Telegram"></a>&nbsp;<a href="https://t.me/TUO-TELEGRAM">TUO-TELEGRAM</a>
 </p>
-
-> 🎓 Studente di **Ingegneria Informatica** presso il **DIMES — Università della Calabria**.
-> Questa repository è l'hub del mio percorso accademico: ogni materia ha una **repository dedicata** con appunti, esercizi, formulari e progetti. Qui trovi solo una panoramica — clicca sul nome della materia per entrare nel dettaglio. 🔍
 
 ---
 
@@ -16,64 +31,40 @@
 
 | 🧩 Ambito | Tecnologie |
 | :--- | :--- |
-| 🔤 **Linguaggi** | `Java` • `C` • `C++` • `SQL` • `Python` • `VHDL` |
-| ⚙️ **Sistemi** | Linux/POSIX • Threads • IPC • System Calls |
-| 🏛️ **Software** | OOP • Design Patterns • Algoritmi & Strutture Dati |
+| 🔤 **Linguaggi** | `Java` • `Python` • `C` • `C++` • `SQL` • `VHDL` |
+| ⚙️ **Sistemi** | Linux/POSIX • Threads • IPC • Concorrenza |
+| 🏛️ **Software** | OOP • Design Patterns • SOLID • Algoritmi & Strutture Dati |
 | 🗄️ **Dati** | PostgreSQL • MySQL • Modellazione E-R |
 | 🧰 **Tools** | Git • GitHub • VS Code • MATLAB |
 
 ---
 
-## 🎓 Percorso Accademico
+## 🚀 Aree di Competenza & Progetti
 
-**Legenda stato →** ✅ Superato &nbsp; 📗 In corso &nbsp; 🗓️ Pianificato &nbsp; | &nbsp; 🔗 = repository dedicata già disponibile
+> Ogni voce è collegata a una repository dedicata con spiegazioni, esercizi e codice. 🔗 = repo già disponibile · 🔜 = in arrivo
 
-### 📚 1° Anno
-
-| Materia | CFU | Stato | Focus |
-| :--- | :---: | :---: | :--- |
-| 🧮 Matematica | 9 | ✅ (27) | Analisi matematica I |
-| ➗ Elementi di Matematica Computazionale e Algebra Lineare | 12 | ✅ (20) | Algebra lineare, matematica discreta |
-| 🖥️ Fondamenti di Informatica I | 9 | ✅ (19) | Basi di programmazione |
-| 🖥️ Fondamenti di Informatica II | 6 | ✅ (19) | Paradigmi computazionali avanzati |
-| ⚛️ Fisica — Meccanica e Termodinamica | 9 | ✅ (22) | Meccanica classica, termodinamica |
-| 🔌 Reti Logiche e Calcolatori | 9 | 📗 | Algebra booleana, circuiti digitali |
-| 🇬🇧 Inglese | 4 | 📗 | Inglese tecnico |
-
-### 📚 2° Anno
-
-| Materia | CFU | Stato | Focus |
-| :--- | :---: | :---: | :--- |
-| ☕ Programmazione Orientata agli Oggetti | 9 | ✅ (18) | Java, OOP, design pattern |
-| 🧵 Sistemi Operativi | 9 | 📗 | Processi, memoria, concorrenza |
-| 🎛️ Fondamenti di Automatica | 9 | 📗 | Sistemi dinamici, controllo |
-| 🔗 [🧮 Algoritmi e Strutture Dati](https://github.com/TUO-USERNAME/Algorithms-and-Data-Structures) | 6 | 📗 | Complessità, alberi, grafi |
-| ⚡ Elettromagnetismo ed Elettrotecnica | 12 | 📗 | Campi elettromagnetici, circuiti |
-| 📐 Metodi Matematici per l'Ing. Informatica | 12 | 📗 | Analisi complessa, trasformate, EDO |
-| 🎲 Metodi Probabilistici della Ricerca Operativa | 6 | 📗 | Probabilità, processi stocastici |
-
-### 📚 3° Anno
-
-| Materia | CFU | Stato | Focus |
-| :--- | :---: | :---: | :--- |
-| 📡 Fondamenti di Reti di Telecomunicazioni | 6 | 📗 | Trasmissione dati, protocolli |
-| 🔋 Elettronica Digitale | 6 | 📗 | Circuiti digitali, logica sequenziale |
-| 🗄️ Basi di Dati | 9 | 📗 | Modellazione E-R, SQL, normalizzazione |
-| 📊 Ricerca Operativa | 6 | 📗 | Ottimizzazione lineare, simplesso |
-| 🏗️ Ingegneria del Software | 9 | 📗 | Ciclo di vita, metodologie agili |
-| 🌐 Reti di Calcolatori | 6 | 📗 | TCP/IP, socket programming |
-| 🧠 Elementi di Informatica Teorica | 6 | 🗓️ | Automi, linguaggi formali |
-| 💼 Economia e Organizzazione Aziendale | 6 | 🗓️ | Economia e organizzazione d'impresa |
-| 🎓 Prova Finale | 5 | 🗓️ | Tesi di laurea |
+| Area | Tecnologie chiave | Descrizione |
+| :--- | :--- | :--- |
+| 🧩 **[Basi di Programmazione](#)** 🔜 | Python, Java | Fondamenti di programmazione, paradigmi procedurale e a oggetti |
+| 🧮 **[Algoritmi & Strutture Dati](https://github.com/TUO-USERNAME/Algorithms-and-Data-Structures)** 🔗 | C, C++, Java | Complessità computazionale, alberi, grafi, tecniche di ottimizzazione |
+| ☕ **[Software Engineering & OOP](#)** 🔜 | Java, UML | Design pattern, principi SOLID, architetture modulari |
+| 🧵 **[Sistemi Operativi](#)** 🔜 | C, POSIX | Processi, concorrenza, gestione della memoria |
+| 🔌 **[Architetture Digitali & Hardware](#)** 🔜 | VHDL, Vivado | Circuiti digitali, macchine a stati, progettazione RTL |
+| 🗄️ **[Basi di Dati](#)** 🔜 | SQL, PostgreSQL | Modellazione E-R, normalizzazione, query avanzate |
+| 🌐 **[Reti & Comunicazioni](#)** 🔜 | Socket API, TCP/IP | Programmazione di rete, protocolli client-server |
+| 🎛️ **[Controlli & Ottimizzazione](#)** 🔜 | MATLAB, Simplesso | Sistemi dinamici, programmazione lineare, processi stocastici |
+| 📐 **[Matematica & Modelli](#)** 🔜 | Analisi, Algebra Lineare | Basi matematiche e fisiche applicate all'ingegneria |
 
 ---
 
-## 📊 Avanzamento
+## 🎯 Progetti in Evidenza
 
-```text
-[███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 30% — 54 / 180 CFU
-```
+*(sezione da popolare con i tuoi progetti personali — es. in stile "AI Project Quest Master": agenti AI, PDDL + LLM per esperienze narrative interattive)*
+
+### 🧠 Nome Progetto
+Breve descrizione di cosa fa e perché è interessante.
+[GitHub](#)
 
 ---
 
-<p align="center"><i>🔄 Ogni materia superata o in corso riceverà la propria repository dedicata, seguendo la stessa struttura di "Algoritmi e Strutture Dati".</i></p>
+<p align="center"><i>🔄 Le sezioni 🔜 diventeranno link attivi non appena le rispettive repository saranno pubblicate.</i></p>
