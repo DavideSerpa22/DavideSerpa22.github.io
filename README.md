@@ -57,14 +57,6 @@ Sempre alla ricerca di nuove sfide tecniche da trasformare in codice. 🚀
 
 ---
 
-## 🎯 Progetti in Evidenza
-
-*(sezione da popolare con i tuoi progetti personali — es. in stile "AI Project Quest Master": agenti AI, PDDL + LLM per esperienze narrative interattive)*
-
-### 🧠 Nome Progetto
-Breve descrizione di cosa fa e perché è interessante.
-[GitHub](#)
-
 ---
 
 <p align="center"><i>🔄 Le sezioni 🔜 diventeranno link attivi non appena le rispettive cartelle saranno create in questo repository.</i></p>
