@@ -10,7 +10,7 @@ Studio **Ingegneria Informatica** presso il **DIMES — Università della Calabr
 
 ## 🧭 Percorso di studio
 
-Il piano allegato riguarda **Ingegneria Informatica (L-8)** ed è strutturato su 3 anni per un totale di **180 CFU**. fileciteturn6file0L2-L8 fileciteturn6file0L56-L57
+Il piano di studi riguarda **Ingegneria Informatica (L-8)** ed è strutturato su 3 anni per un totale di **180 CFU**.
 
 | Percorso | Focus | Stato |
 | :--- | :--- | :---: |
@@ -26,13 +26,13 @@ Il piano allegato riguarda **Ingegneria Informatica (L-8)** ed è strutturato su
 
 ### 📋 Materie del piano
 
-**1° anno:** Fondamenti di Informatica I (9 CFU), Fondamenti di Informatica II (6), Reti Logiche e Calcolatori (9), Inglese (4), Fisica — Meccanica ed Elementi di Termodinamica (9), Elementi di Matematica Computazionale e Algebra Lineare e Matematica Discreta (12), Matematica (9). fileciteturn6file0L14-L27
+**1° anno:** Fondamenti di Informatica I (9 CFU), Fondamenti di Informatica II (6), Reti Logiche e Calcolatori (9), Inglese (4), Fisica — Meccanica ed Elementi di Termodinamica (9), Elementi di Matematica Computazionale e Algebra Lineare e Matematica Discreta (12), Matematica (9).
 
-**2° anno:** Sistemi Operativi (9), Programmazione Orientata agli Oggetti (9), Fondamenti di Automatica (9), Algoritmi e Strutture Dati (6), Elettromagnetismo ed Elettrotecnica (12), Metodi Matematici per l'Ingegneria Informatica (12), Metodi Probabilistici della Ricerca Operativa (6). fileciteturn6file0L28-L43
+**2° anno:** Sistemi Operativi (9), Programmazione Orientata agli Oggetti (9), Fondamenti di Automatica (9), Algoritmi e Strutture Dati (6), Elettromagnetismo ed Elettrotecnica (12), Metodi Matematici per l'Ingegneria Informatica (12), Metodi Probabilistici della Ricerca Operativa (6).
 
-**3° anno:** Fondamenti di Reti di Telecomunicazioni (6), Elettronica Digitale (6), Basi di Dati (9), Prova Finale (5), Ricerca Operativa (6), Ingegneria del Software (9), Reti di Calcolatori (6), Elementi di Informatica Teorica (6), Economia e Organizzazione Aziendale (6). fileciteturn6file0L44-L55
+**3° anno:** Fondamenti di Reti di Telecomunicazioni (6), Elettronica Digitale (6), Basi di Dati (9), Prova Finale (5), Ricerca Operativa (6), Ingegneria del Software (9), Reti di Calcolatori (6), Elementi di Informatica Teorica (6), Economia e Organizzazione Aziendale (6).
 
-> ℹ️ Il PDF del piano di studi fornisce nomi, codici e CFU delle materie, ma non i syllabus completi. Nei README delle singole aree non invento quindi programmi ufficiali: quando il programma dettagliato sarà disponibile, potrà essere inserito nella relativa sezione.
+> ℹ️ Il piano di studi fornisce nomi, codici e CFU delle materie, ma non i syllabus completi. Nei README delle singole aree non invento quindi programmi ufficiali: quando il programma dettagliato sarà disponibile, potrà essere inserito nella relativa sezione.
 
 ---
 
