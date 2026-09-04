@@ -7,12 +7,22 @@ Area dedicata alla programmazione a oggetti, alla progettazione del software e a
 ### Programmazione Orientata agli Oggetti — 9 CFU
 **Codice:** 27000088
 
-Il piano di studi identifica la materia e i 9 CFU, ma non riporta il syllabus dettagliato. Il programma ufficiale del corso va aggiunto come fonte primaria quando disponibile.
+Il piano di studi identifica la materia e i 9 CFU, ma non riporta il syllabus dettagliato.
 
 ### Ingegneria del Software — 9 CFU
 **Codice:** 27000110
 
-Il piano identifica la materia e i 9 CFU, senza dettagliare gli argomenti del programma.
+Il piano identifica la materia e i 9 CFU, ma non riporta il syllabus dettagliato.
+
+### Economia e Organizzazione Aziendale — 6 CFU
+**Codice:** 27006742
+
+Materia trasversale del 3° anno. Il piano identifica i 6 CFU, ma non contiene il programma dettagliato.
+
+### Prova Finale — 5 CFU
+**Codice:** 27000022
+
+Attività finale del percorso di laurea; non è un insegnamento con un syllabus nel piano allegato.
 
 ## 🧱 Progetti
 
@@ -26,6 +36,7 @@ Il piano identifica la materia e i 9 CFU, senza dettagliare gli argomenti del pr
 ├── README.md
 ├── OOP/
 ├── UML/
+├── Software_Engineering/
 └── Projects/
 ```
 
