@@ -2,57 +2,59 @@
 
 **Computer Engineer · Software Developer · Backend & Systems Enthusiast**
 
-Studio **Ingegneria Informatica** presso il **DIMES — Università della Calabria** e mi interessa trasformare problemi complessi in software semplice, robusto e comprensibile.
+Studio **Ingegneria Informatica** presso il **DIMES — Università della Calabria** e sto organizzando questo repository come archivio strutturato di materie, programmi, esercizi e progetti.
 
-> Backend • Algoritmi • Strutture dati • Sistemi operativi • Database • Software engineering
-
-<p>
-  <a href="https://github.com/DavideSerpa22"><img src="https://img.shields.io/badge/GitHub-DavideSerpa22-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://instagram.com/thetrueprice"><img src="https://img.shields.io/badge/Instagram-%40thetrueprice-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
+> Backend • Algoritmi • Strutture dati • Sistemi operativi • Database • Software engineering • Reti • Matematica
 
 ---
 
-## 🧭 Navigazione
+## 🧭 Percorso di studio
 
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📚 Percorso di studio](#-percorso-di-studio)
-- [📂 Repository](#-repository)
-- [🎯 Obiettivi](#-obiettivi)
-- [📬 Contatti](#-contatti)
+Il piano allegato riguarda **Ingegneria Informatica (L-8)** ed è strutturato su 3 anni per un totale di **180 CFU**. fileciteturn6file0L2-L8 fileciteturn6file0L56-L57
 
-## 🛠️ Tech Stack
-
-| Area | Tecnologie |
-| :--- | :--- |
-| **Linguaggi** | `Java` · `Python` · `C` · `C++` · `SQL` · `VHDL` |
-| **Sistemi** | `Linux/POSIX` · `Threads` · `IPC` · `Concorrenza` |
-| **Software Engineering** | `OOP` · `SOLID` · `Design Patterns` · `UML` |
-| **Algoritmi** | `Algoritmi` · `Strutture dati` · `Grafi` · `Complessità` |
-| **Database** | `PostgreSQL` · `MySQL` · `Modellazione E-R` |
-| **Tools** | `Git` · `GitHub` · `VS Code` · `MATLAB` |
-
-## 📚 Percorso di studio
-
-Questo repository raccoglie **appunti, esercizi, implementazioni e progetti** organizzati per area. L'obiettivo è mantenere il materiale riproducibile e facile da consultare.
-
-| Area | Focus | Stato |
+| Percorso | Focus | Stato |
 | :--- | :--- | :---: |
-| 🔌 [Hardware, Elettronica & RTL](./01_Hardware_Elettronica_e_RTL) | VHDL, Vivado, logica digitale, FSM, RTL | 🟢 |
-| 🧮 [Algoritmi & Strutture Dati](./02_Algoritmi_e_Strutture_Dati) | Complessità, alberi, grafi, stringhe, backtracking | 🟢 |
-| 🧩 [Basi di Programmazione](./03_Basi_di_Programmazione) | Python, Java, programmazione procedurale e OOP | 🔜 |
-| ☕ [Software Engineering & OOP](./04_Software_Engineering_OOP) | Java, UML, pattern, SOLID, architetture | 🔜 |
-| 🧵 [Sistemi Operativi](./05_Sistemi_Operativi) | C, POSIX, processi, thread, memoria | 🔜 |
-| 🗄️ [Basi di Dati](./06_Basi_di_Dati) | SQL, PostgreSQL, E-R, normalizzazione | 🔜 |
-| 🌐 [Reti & Comunicazioni](./07_Reti_e_Comunicazioni) | Socket, TCP/IP, client-server | 🔜 |
-| 🎛️ [Controlli & Ottimizzazione](./08_Controlli_e_Ottimizzazione) | MATLAB, ottimizzazione, sistemi dinamici | 🔜 |
-| 📐 [Matematica & Modelli](./09_Matematica_e_Modelli) | Analisi, algebra lineare, modelli matematici | 🔜 |
+| 🔌 [Hardware, Elettronica & RTL](./01_Hardware_Elettronica_e_RTL) | Reti logiche, VHDL, elettronica, elettrotecnica | 🟢 |
+| 🧮 [Algoritmi & Strutture Dati](./02_Algoritmi_e_Strutture_Dati) | Algoritmi, strutture dati, complessità, informatica teorica | 🟢 |
+| 🧩 [Basi di Programmazione](./03_Basi_di_Programmazione) | Fondamenti di Informatica I/II, Python, Java | 🟢 |
+| ☕ [Software Engineering & OOP](./04_Software_Engineering_OOP) | OOP, progettazione software, UML | 🟢 |
+| 🧵 [Sistemi Operativi](./05_Sistemi_Operativi) | Processi, thread, IPC, POSIX | 🟢 |
+| 🗄️ [Basi di Dati](./06_Basi_di_Dati) | Database relazionali, SQL, modellazione | 🟢 |
+| 🌐 [Reti & Comunicazioni](./07_Reti_e_Comunicazioni) | Reti, TCP/IP, socket, client-server | 🟢 |
+| 🎛️ [Controlli & Ottimizzazione](./08_Controlli_e_Ottimizzazione) | Automatica, ricerca operativa, probabilità | 🟢 |
+| 📐 [Matematica & Modelli](./09_Matematica_e_Modelli) | Matematica, algebra, metodi matematici, fisica | 🟢 |
 
-**Legenda:** 🟢 disponibile · 🔜 pianificato
+### 📋 Materie del piano
 
-## 📂 Repository
+**1° anno:** Fondamenti di Informatica I (9 CFU), Fondamenti di Informatica II (6), Reti Logiche e Calcolatori (9), Inglese (4), Fisica — Meccanica ed Elementi di Termodinamica (9), Elementi di Matematica Computazionale e Algebra Lineare e Matematica Discreta (12), Matematica (9). fileciteturn6file0L14-L27
 
-La struttura è pensata per separare teoria e pratica:
+**2° anno:** Sistemi Operativi (9), Programmazione Orientata agli Oggetti (9), Fondamenti di Automatica (9), Algoritmi e Strutture Dati (6), Elettromagnetismo ed Elettrotecnica (12), Metodi Matematici per l'Ingegneria Informatica (12), Metodi Probabilistici della Ricerca Operativa (6). fileciteturn6file0L28-L43
+
+**3° anno:** Fondamenti di Reti di Telecomunicazioni (6), Elettronica Digitale (6), Basi di Dati (9), Prova Finale (5), Ricerca Operativa (6), Ingegneria del Software (9), Reti di Calcolatori (6), Elementi di Informatica Teorica (6), Economia e Organizzazione Aziendale (6). fileciteturn6file0L44-L55
+
+> ℹ️ Il PDF del piano di studi fornisce nomi, codici e CFU delle materie, ma non i syllabus completi. Nei README delle singole aree non invento quindi programmi ufficiali: quando il programma dettagliato sarà disponibile, potrà essere inserito nella relativa sezione.
+
+---
+
+## 🚀 Progetti presenti
+
+Ho inserito alcuni **progetti didattici iniziali** per rendere le aree immediatamente utilizzabili:
+
+- 🔌 VHDL — porta AND RTL
+- 🧮 C++ — Binary Search
+- 🐍 Python — calcolo della media
+- ☕ Java — classe `Student` con principi OOP di base
+- 🧵 C/POSIX — contatore concorrente con `pthread` e mutex
+- 🗄️ SQL — piccolo database biblioteca
+- 🌐 Python — TCP client/server
+- 🎛️ MATLAB — esempio di ottimizzazione lineare
+- 📐 Python — prodotto matrice-vettore
+
+Questi esempi sono **starter projects aggiunti al repository**, non vengono presentati come lavori universitari già svolti.
+
+---
+
+## 🗂️ Struttura
 
 ```text
 .
@@ -67,25 +69,27 @@ La struttura è pensata per separare teoria e pratica:
 └── 09_Matematica_e_Modelli/
 ```
 
-Dove possibile, ogni area conterrà:
+Ogni area ha ora il proprio `README.md` con:
 
-- 📖 teoria e schemi sintetici;
-- 💻 implementazioni ed esercizi;
-- 🧪 test, simulazioni o esempi eseguibili;
-- 📝 note utili per il ripasso e la preparazione agli esami.
+- 📚 materie collegate;
+- 🧾 codice e CFU quando presenti nel piano;
+- 📖 sezione programma/syllabus;
+- 💻 progetti ed esercizi;
+- 🗂️ struttura consigliata per il materiale futuro.
+
+---
 
 ## 🎯 Obiettivi
 
 - Scrivere codice **leggibile, testabile e manutenibile**.
 - Consolidare algoritmi, strutture dati e programmazione di sistema.
-- Costruire progetti sempre più completi, dalla progettazione ai test.
-- Documentare ciò che imparo in modo utile anche a chi consulta il repository.
+- Trasformare gli argomenti teorici in implementazioni concrete.
+- Documentare progressivamente esercizi, laboratori e progetti universitari.
+- Mantenere una struttura che possa diventare anche un portfolio tecnico.
 
 ## 📬 Contatti
 
 - **GitHub:** [@DavideSerpa22](https://github.com/DavideSerpa22)
 - **Instagram:** [@thetrueprice](https://instagram.com/thetrueprice)
-
-> 🚧 Repository in evoluzione: nuove sezioni e progetti verranno aggiunti progressivamente.
 
 <p align="center"><sub>Built with curiosity, code and a lot of debugging.</sub></p>
