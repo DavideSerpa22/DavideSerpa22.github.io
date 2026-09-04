@@ -1,33 +1,39 @@
-# ⚡ Area 1: Hardware, Elettronica & RTL
+# 🔌 Hardware, Elettronica & RTL
 
-In questa sezione sono raccolti gli argomenti teorici, le esercitazioni e i progetti pratici relativi alla progettazione di sistemi digitali, architettura dei calcolatori ed elettronica.
+Area dedicata alla progettazione digitale, all'elettronica e alla descrizione hardware.
 
----
+## 📚 Materie del piano di studi
 
-## 📚 Materie dell'Area
+### Reti Logiche e Calcolatori — 9 CFU
+**Codice:** 27006259
 
-### 1. 🔣 Reti Logiche e Calcolatori (9 CFU)
-* **Descrizione:** Progettazione di circuiti logici combinatori e sequenziali, minimizzazione logica e architetture hardware.
-* **Argomenti principali:** 
-  * Mappe di Karnaugh e forme normali (Mintermi / Maxtermi)
-  * Sintesi di logica combinatoria e Macchine a Stati Finiti (FSM)
-  * Linguaggi di descrizione hardware (VHDL / Verilog)
-  * Progettazione Datapath, ALU e Control Unit
+Dal materiale già presente in questa area: mappe di Karnaugh, logica combinatoria, FSM, VHDL/Verilog, datapath, ALU e control unit.
 
-### 2. 🔌 Elettronica Digitale (6 CFU)
-* **Descrizione:** Studio dei componenti elettronici di base che costituiscono i blocchi logici del calcolatore.
-* **Argomenti principali:** Tecnologia CMOS, commutazione dei transistor, tempi di propagazione e celle di memoria.
+### Elettronica Digitale — 6 CFU
+**Codice:** 27000112
 
-### 3. 🧲 Elettromagnetismo ed Elettrotecnica (12 CFU)
-* **Descrizione:** Fondamenti di teoria dei circuiti elettrici e campi elettromagnetici.
-* **Argomenti principali:** Leggi di Kirchhoff, analisi dei circuiti in regime stazionario e alternato.
+Il piano di studi identifica la materia e i 6 CFU, ma non riporta il syllabus dettagliato.
 
----
+### Elettromagnetismo ed Elettrotecnica — 12 CFU
+**Codice:** 27006261
 
-## 🛠️ Progetti & Simulazioni RTL
+Il piano identifica la materia e i 12 CFU. Il syllabus dettagliato non è presente nel PDF allegato.
 
-> *In questa sezione aggiungeremo i codici sorgente (`.vhd` / `.v`), i testbench e i report delle simulazioni.*
+## 🛠️ Progetti
 
-* ⏳ **[In arrivo]** Mappe di Karnaugh & Logica Combinatoria
-* ⏳ **[In arrivo]** ALU Parametrica in VHDL/Verilog
-* ⏳ **[In arrivo]** FSM (Macchina a Stati Finiti) per il controllo di sequenza
+- 🔣 **Logica combinatoria** — esercizi di sintesi e minimizzazione.
+- ⚙️ **ALU parametrica** — progetto RTL da completare con VHDL e testbench.
+- 🔄 **FSM sequenziale** — macchina a stati finiti con simulazione.
+
+## 🗂️ Struttura
+
+```text
+01_Hardware_Elettronica_e_RTL/
+├── README.md
+├── Reti_Logiche/
+├── Elettronica_Digitale/
+├── Elettrotecnica/
+└── Projects/
+```
+
+⬅️ [Torna al profilo principale](../README.md)
