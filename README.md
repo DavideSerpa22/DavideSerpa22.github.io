@@ -1,62 +1,91 @@
 # 👋 Ciao, sono Davide Serpa
 
-<img src="assets/images/profilo.jpg" alt="Davide Serpa" width="150" style="border-radius:50%">
+**Computer Engineer · Software Developer · Backend & Systems Enthusiast**
 
-**Computer Engineer | Software Developer**
-Ingegneria Informatica @ **DIMES — Università della Calabria**.
-Mi occupo di sviluppo software, algoritmi e architetture di sistema, con particolare interesse per il backend e le strutture dati efficienti.
-Sempre alla ricerca di nuove sfide tecniche da trasformare in codice. 🚀
+Studio **Ingegneria Informatica** presso il **DIMES — Università della Calabria** e mi interessa trasformare problemi complessi in software semplice, robusto e comprensibile.
 
----
+> Backend • Algoritmi • Strutture dati • Sistemi operativi • Database • Software engineering
 
-## 🌐 Social & Contatti
-
-<p align="left">
-  <a href="mailto:tuamail@example.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20" alt="Email"></a>&nbsp;<a href="mailto:tuamail@example.com">tuamail@example.com</a>
-  <br>
-  <a href="https://linkedin.com/in/TUO-LINKEDIN"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="20" alt="LinkedIn"></a>&nbsp;<a href="https://linkedin.com/in/TUO-LINKEDIN">TUO-LINKEDIN</a>
-  <br>
-  <a href="https://github.com/DavideSerpa22"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="20" alt="GitHub"></a>&nbsp;<a href="https://github.com/DavideSerpa22">DavideSerpa22</a>
-  <br>
-  <a href="https://instagram.com/thetrueprice"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="20" alt="Instagram"></a>&nbsp;<a href="https://instagram.com/thetrueprice">@thetrueprice</a>
-  <br>
-  <a href="https://twitter.com/TUO-TWITTER"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="20" alt="Twitter"></a>&nbsp;<a href="https://twitter.com/TUO-TWITTER">TUO-TWITTER</a>
-  <br>
-  <a href="https://t.me/TUO-TELEGRAM"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="20" alt="Telegram"></a>&nbsp;<a href="https://t.me/TUO-TELEGRAM">TUO-TELEGRAM</a>
+<p>
+  <a href="https://github.com/DavideSerpa22"><img src="https://img.shields.io/badge/GitHub-DavideSerpa22-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://instagram.com/thetrueprice"><img src="https://img.shields.io/badge/Instagram-%40thetrueprice-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
 
+## 🧭 Navigazione
+
+- [🛠️ Tech Stack](#️-tech-stack)
+- [📚 Percorso di studio](#-percorso-di-studio)
+- [📂 Repository](#-repository)
+- [🎯 Obiettivi](#-obiettivi)
+- [📬 Contatti](#-contatti)
+
 ## 🛠️ Tech Stack
 
-| 🧩 Ambito | Tecnologie |
+| Area | Tecnologie |
 | :--- | :--- |
-| 🔤 **Linguaggi** | `Java` • `Python` • `C` • `C++` • `SQL` • `VHDL` |
-| ⚙️ **Sistemi** | Linux/POSIX • Threads • IPC • Concorrenza |
-| 🏛️ **Software** | OOP • Design Patterns • SOLID • Algoritmi & Strutture Dati |
-| 🗄️ **Dati** | PostgreSQL • MySQL • Modellazione E-R |
-| 🧰 **Tools** | Git • GitHub • VS Code • MATLAB |
+| **Linguaggi** | `Java` · `Python` · `C` · `C++` · `SQL` · `VHDL` |
+| **Sistemi** | `Linux/POSIX` · `Threads` · `IPC` · `Concorrenza` |
+| **Software Engineering** | `OOP` · `SOLID` · `Design Patterns` · `UML` |
+| **Algoritmi** | `Algoritmi` · `Strutture dati` · `Grafi` · `Complessità` |
+| **Database** | `PostgreSQL` · `MySQL` · `Modellazione E-R` |
+| **Tools** | `Git` · `GitHub` · `VS Code` · `MATLAB` |
 
----
+## 📚 Percorso di studio
 
-## 🚀 Aree di Competenza & Progetti
+Questo repository raccoglie **appunti, esercizi, implementazioni e progetti** organizzati per area. L'obiettivo è mantenere il materiale riproducibile e facile da consultare.
 
-> Ogni voce è collegata a una cartella dedicata di questo stesso repository, con spiegazioni, esercizi e codice. 🔗 = cartella già disponibile · 🔜 = in arrivo
+| Area | Focus | Stato |
+| :--- | :--- | :---: |
+| 🔌 [Hardware, Elettronica & RTL](./01_Hardware_Elettronica_e_RTL) | VHDL, Vivado, logica digitale, FSM, RTL | 🟢 |
+| 🧮 [Algoritmi & Strutture Dati](./02_Algoritmi_e_Strutture_Dati) | Complessità, alberi, grafi, stringhe, backtracking | 🟢 |
+| 🧩 [Basi di Programmazione](./03_Basi_di_Programmazione) | Python, Java, programmazione procedurale e OOP | 🔜 |
+| ☕ [Software Engineering & OOP](./04_Software_Engineering_OOP) | Java, UML, pattern, SOLID, architetture | 🔜 |
+| 🧵 [Sistemi Operativi](./05_Sistemi_Operativi) | C, POSIX, processi, thread, memoria | 🔜 |
+| 🗄️ [Basi di Dati](./06_Basi_di_Dati) | SQL, PostgreSQL, E-R, normalizzazione | 🔜 |
+| 🌐 [Reti & Comunicazioni](./07_Reti_e_Comunicazioni) | Socket, TCP/IP, client-server | 🔜 |
+| 🎛️ [Controlli & Ottimizzazione](./08_Controlli_e_Ottimizzazione) | MATLAB, ottimizzazione, sistemi dinamici | 🔜 |
+| 📐 [Matematica & Modelli](./09_Matematica_e_Modelli) | Analisi, algebra lineare, modelli matematici | 🔜 |
 
-| Area | Tecnologie chiave | Descrizione |
-| :--- | :--- | :--- |
-| 🔌 **[Architetture Digitali & Hardware](./01_Hardware_Elettronica_e_RTL)** 🔗 | VHDL, Vivado | Circuiti digitali, macchine a stati, progettazione RTL |
-| 🧮 **[Algoritmi & Strutture Dati](./02_Algoritmi_e_Strutture_Dati)** 🔗 | C, C++, Java | Complessità computazionale, alberi, grafi, tecniche di ottimizzazione |
-| 🧩 **[Basi di Programmazione](./03_Basi_di_Programmazione)** 🔜 | Python, Java | Fondamenti di programmazione, paradigmi procedurale e a oggetti |
-| ☕ **[Software Engineering & OOP](./04_Software_Engineering_OOP)** 🔜 | Java, UML | Design pattern, principi SOLID, architetture modulari |
-| 🧵 **[Sistemi Operativi](./05_Sistemi_Operativi)** 🔜 | C, POSIX | Processi, concorrenza, gestione della memoria |
-| 🗄️ **[Basi di Dati](./06_Basi_di_Dati)** 🔜 | SQL, PostgreSQL | Modellazione E-R, normalizzazione, query avanzate |
-| 🌐 **[Reti & Comunicazioni](./07_Reti_e_Comunicazioni)** 🔜 | Socket API, TCP/IP | Programmazione di rete, protocolli client-server |
-| 🎛️ **[Controlli & Ottimizzazione](./08_Controlli_e_Ottimizzazione)** 🔜 | MATLAB, Simplesso | Sistemi dinamici, programmazione lineare, processi stocastici |
-| 📐 **[Matematica & Modelli](./09_Matematica_e_Modelli)** 🔜 | Analisi, Algebra Lineare | Basi matematiche e fisiche applicate all'ingegneria |
+**Legenda:** 🟢 disponibile · 🔜 pianificato
 
----
+## 📂 Repository
 
----
+La struttura è pensata per separare teoria e pratica:
 
-<p align="center"><i>🔄 Le sezioni 🔜 diventeranno link attivi non appena le rispettive cartelle saranno create in questo repository.</i></p>
+```text
+.
+├── 01_Hardware_Elettronica_e_RTL/
+├── 02_Algoritmi_e_Strutture_Dati/
+├── 03_Basi_di_Programmazione/
+├── 04_Software_Engineering_OOP/
+├── 05_Sistemi_Operativi/
+├── 06_Basi_di_Dati/
+├── 07_Reti_e_Comunicazioni/
+├── 08_Controlli_e_Ottimizzazione/
+└── 09_Matematica_e_Modelli/
+```
+
+Dove possibile, ogni area conterrà:
+
+- 📖 teoria e schemi sintetici;
+- 💻 implementazioni ed esercizi;
+- 🧪 test, simulazioni o esempi eseguibili;
+- 📝 note utili per il ripasso e la preparazione agli esami.
+
+## 🎯 Obiettivi
+
+- Scrivere codice **leggibile, testabile e manutenibile**.
+- Consolidare algoritmi, strutture dati e programmazione di sistema.
+- Costruire progetti sempre più completi, dalla progettazione ai test.
+- Documentare ciò che imparo in modo utile anche a chi consulta il repository.
+
+## 📬 Contatti
+
+- **GitHub:** [@DavideSerpa22](https://github.com/DavideSerpa22)
+- **Instagram:** [@thetrueprice](https://instagram.com/thetrueprice)
+
+> 🚧 Repository in evoluzione: nuove sezioni e progetti verranno aggiunti progressivamente.
+
+<p align="center"><sub>Built with curiosity, code and a lot of debugging.</sub></p>
