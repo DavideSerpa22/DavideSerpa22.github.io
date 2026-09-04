@@ -1,151 +1,43 @@
+# 🧮 Algoritmi & Strutture Dati
 
-# 🧮 Algorithms & Data Structures
+Area dedicata allo studio degli algoritmi, delle strutture dati e della complessità computazionale.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Language-C%20%7C%20C%2B%2B%20%7C%20Java-blue?style=flat-square" alt="Languages">
-  <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Topics-9-orange?style=flat-square" alt="Topics">
-</p>
+## 📚 Materie del piano di studi
 
-Implementazioni, appunti ed esercizi svolti per il corso di **Algoritmi e Strutture Dati** — dai modelli di calcolo fino a grafi pesati e backtracking.
+### Algoritmi e Strutture Dati — 6 CFU
+**Codice:** 27000392
 
----
+Il materiale già presente in questa area copre: complessità computazionale, algoritmi fondamentali, divide et impera, alberi, dizionari, code di priorità, stringhe, grafi, grafi pesati, backtracking e classi di complessità.
 
-## 📑 Indice
+### Elementi di Informatica Teorica — 6 CFU
+**Codice:** 27007763
 
-- [Complessità Computazionale](#-1-complessità-computazionale)
-- [Algoritmi Fondamentali](#-2-algoritmi-fondamentali)
-- [Divide et Impera](#-3-divide-et-impera)
-- [Alberi](#-4-alberi)
-- [Dizionari & Code di Priorità](#-5-dizionari--code-di-priorità)
-- [Stringhe](#-6-algoritmi-sulle-stringhe)
-- [Grafi](#-7-grafi)
-- [Grafi Pesati](#-8-grafi-pesati)
-- [Backtracking & Classi di Complessità](#-9-backtracking--classi-di-complessità)
+Il piano identifica la materia e i 6 CFU, ma non riporta il syllabus dettagliato.
 
----
+## 🚀 Progetti
 
-## 📂 Struttura
+- 🔎 **Binary Search** — ricerca binaria e analisi `O(log n)`.
+- 🌳 **Binary Search Tree** — inserimento, ricerca e visite dell'albero.
+- 🕸️ **Graph Traversal** — BFS e DFS su grafi rappresentati con liste di adiacenza.
+- 🧩 **Backtracking** — soluzione di problemi combinatori con esplorazione dello spazio degli stati.
+
+## 🗂️ Struttura
 
 ```text
-Algorithms-and-Data-Structures/
-├── 01_Computational_Complexity/
-├── 02_Fundamental_Algorithms/
-├── 03_Divide_and_Conquer/
-├── 04_Trees/
-├── 05_Dictionaries_and_Priority_Queues/
-├── 06_Strings/
-├── 07_Graphs/
-├── 08_Weighted_Graphs/
-├── 09_Backtracking_and_Complexity_Classes/
+02_Algoritmi_e_Strutture_Dati/
+├── README.md
+├── 01_Complessita_Computazionale/
+├── 02_Algoritmi_Fondamentali/
+├── 03_Divide_et_Impera/
+├── 04_Alberi/
+├── 05_Dizionari_e_Code_di_Priorita/
+├── 06_Stringhe/
+├── 07_Grafi/
+├── 08_Grafi_Pesati/
+├── 09_Backtracking_e_Classi_di_Complessita/
 ├── Exercises/
 ├── Exam_Preparation/
 └── Projects/
 ```
 
----
-
-## 🧭 1. Complessità Computazionale
-
-<details>
-<summary><b>Clicca per espandere ▾</b></summary>
-
-- Macchine di Turing, RAM, RASP
-- Complessità temporale e spaziale
-- Funzioni di costo e loro rappresentazione
-- Caso migliore, medio, peggiore
-
-</details>
-
-## 🔁 2. Algoritmi Fondamentali
-
-<details>
-<summary><b>Clicca per espandere ▾</b></summary>
-
-- Algoritmi iterativi di ricerca e ordinamento
-- Algoritmi su matrici e risoluzione di sistemi
-- Analisi di complessità
-
-</details>
-
-## ⚔️ 3. Divide et Impera
-
-<details>
-<summary><b>Clicca per espandere ▾</b></summary>
-
-- Paradigma Divide et Impera e calcolo di complessità
-- Moltiplicazione efficiente di interi e matrici
-- Ricerca/ordinamento efficienti, calcolo del k-esimo elemento
-- Divide et Impera senza ricorsione
-
-</details>
-
-## 🌳 4. Alberi
-
-<details>
-<summary><b>Clicca per espandere ▾</b></summary>
-
-- Alberi binari: visita, iteratori
-- Alberi binari di ricerca e bilanciamento
-- Alberi generali, B-Alberi
-
-</details>
-
-## 🔑 5. Dizionari & Code di Priorità
-
-<details>
-<summary><b>Clicca per espandere ▾</b></summary>
-
-- Dizionari, vettori associativi, tabelle hash
-- Code di priorità, heap
-- Applicazioni pratiche
-
-</details>
-
-## 🔤 6. Algoritmi sulle Stringhe
-
-<details>
-<summary><b>Clicca per espandere ▾</b></summary>
-
-- Distanza fra stringhe
-- Massima sottosequenza comune
-- Pattern/string matching
-
-</details>
-
-## 🕸️ 7. Grafi
-
-<details>
-<summary><b>Clicca per espandere ▾</b></summary>
-
-- Rappresentazioni e proprietà
-- Visite, componenti connesse, ciclicità
-- Chiusura transitiva, componenti fortemente connesse
-
-</details>
-
-## ⚖️ 8. Grafi Pesati
-
-<details>
-<summary><b>Clicca per espandere ▾</b></summary>
-
-- Alberi ricoprenti minimi (tecniche greedy)
-- Cammini minimi da sorgente
-- Programmazione dinamica sui grafi
-
-</details>
-
-## 🧩 9. Backtracking & Classi di Complessità
-
-<details>
-<summary><b>Clicca per espandere ▾</b></summary>
-
-- Tecniche di backtracking, esplorazione dello spazio degli stati
-- Classi di complessità, problemi decisionali
-- Introduzione ai problemi NP
-
-</details>
-
----
-
-<p align="center"><i>⬅️ <a href="../README.md">Torna al profilo principale</a></i></p>
+⬅️ [Torna al profilo principale](../README.md)
